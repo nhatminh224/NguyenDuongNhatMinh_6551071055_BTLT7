@@ -1,0 +1,84 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hongl\\Documents\\winform\\winform\\Bai1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{87048F30-B7E3-A585-41AE-7320806D3928}|Bai1\\Bai1.csproj|c:\\users\\hongl\\documents\\winform\\winform\\bai1\\bai1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87048F30-B7E3-A585-41AE-7320806D3928}|Bai1\\Bai1.csproj|solutionrelative:bai1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87048F30-B7E3-A585-41AE-7320806D3928}|Bai1\\Bai1.csproj|c:\\users\\hongl\\documents\\winform\\winform\\bai1\\bai1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{87048F30-B7E3-A585-41AE-7320806D3928}|Bai1\\Bai1.csproj|solutionrelative:bai1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87048F30-B7E3-A585-41AE-7320806D3928}|Bai1\\Bai1.csproj|c:\\users\\hongl\\documents\\winform\\winform\\bai1\\bai1\\models\\trithucbookscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87048F30-B7E3-A585-41AE-7320806D3928}|Bai1\\Bai1.csproj|solutionrelative:bai1\\models\\trithucbookscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82C2D20A-B824-42CF-AF24-74179E4F2C25}|Bai1\\Bai1.csproj|C:\\Users\\hongl\\Documents\\winform\\winform\\Bai1\\bai1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{82C2D20A-B824-42CF-AF24-74179E4F2C25}|Bai1\\Bai1.csproj|solutionrelative:bai1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 151,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\hongl\\Documents\\winform\\winform\\Bai1\\Bai1\\Form1.cs",
+              "RelativeDocumentMoniker": "Bai1\\Form1.cs",
+              "ToolTip": "C:\\Users\\hongl\\Documents\\winform\\winform\\Bai1\\Bai1\\Form1.cs",
+              "RelativeToolTip": "Bai1\\Form1.cs",
+              "ViewState": "AgIAAGcAAAAAAAAAAAAnwEMAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-11T15:08:42.22Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\hongl\\Documents\\winform\\winform\\Bai1\\Bai1\\Form1.cs",
+              "RelativeDocumentMoniker": "Bai1\\Form1.cs",
+              "ToolTip": "C:\\Users\\hongl\\Documents\\winform\\winform\\Bai1\\Bai1\\Form1.cs [Design]",
+              "RelativeToolTip": "Bai1\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-08T15:14:58.148Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TriThucBooksContext.cs",
+              "DocumentMoniker": "C:\\Users\\hongl\\Documents\\winform\\winform\\Bai1\\Bai1\\Models\\TriThucBooksContext.cs",
+              "RelativeDocumentMoniker": "Bai1\\Models\\TriThucBooksContext.cs",
+              "ToolTip": "C:\\Users\\hongl\\Documents\\winform\\winform\\Bai1\\Bai1\\Models\\TriThucBooksContext.cs",
+              "RelativeToolTip": "Bai1\\Models\\TriThucBooksContext.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAowCQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-06T13:12:39.764Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\hongl\\Documents\\winform\\winform\\Bai1\\Bai1\\Form1.cs",
+              "RelativeDocumentMoniker": "Bai1\\Form1.cs",
+              "ToolTip": "D:\\Download\\Bai1\\Bai1\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-06T12:50:38.633Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
